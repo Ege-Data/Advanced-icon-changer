@@ -42,5 +42,3 @@ Run [build.bat](build.bat) or execute the following command:
 ```cmd
 g++ -O2 -municode -mwindows main.cpp -o IconChanger.exe -lcomctl32 -lcomdlg32 -lole32 -luuid -lshlwapi -ladvapi32
 ```
-Important
-There may be errors or bugs while using the application, as this is the first version; please exercise caution when using it.
